@@ -43,7 +43,21 @@ Wifi/internet: Vælg `RTS-Guest`. Skriv mobilnummer og du får kode.
 
 ### Python
 
-- [IDE pro](https://www.onlineide.pro/playground/python)
+Programmering i virker absolut bedst med lokalt installeret [VS
+Code](https://code.visualstudio.com/) samt Python.
+
+Men det kan du måske ikke hvis du har en skolecomputer. Simpleste og mest
+tilgængelige er
+
+- [PictoBlox](https://pictoblox.ai/): Kan kode Python, naturligt sted at
+  fortsætte fra at kode Blocks. Vi kender programmet allerede
+
+Andre online alternativer er
+
+- [Trinket](https://jumpto.cc/python-new): Simpel, men lukker august 2026
+- [VS Code for Web](https://vscode.dev), [VS Code for Web med Run and Debug
+  Python](https://code.visualstudio.com/docs/python/python-web): Kræver GitHub
+  konto, som kræver alder 13+
 
 ### Scratch
 
