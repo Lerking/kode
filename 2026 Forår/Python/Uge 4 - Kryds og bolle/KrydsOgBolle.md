@@ -292,7 +292,31 @@ print("Det blev uafgjort!")
 
 Test om jeres spil virker.
 
-## Ekstraopgave 1 (svær): Kan man flytte brikker
+## Ekstraopgave 2 (middel): Kan man lave rammer omkring spillet?
+
+Lige nu ser spillet sådan ud:
+
+```
+>>  X |   |          1 | 2 | 3 
+>> ---+---+---      ---+---+---
+>>    | O |          4 | 5 | 6 
+>> ---+---+---      ---+---+---
+>>    |   | X        7 | 8 | 9 
+```
+
+Kan du få det til at se sådan her ud:
+
+```
+>> +---+---+---+      +---+---+---+
+>> | X |   |   |      | 1 | 2 | 3 |
+>> +---+---+---+      +---+---+---+
+>> |   | O |   |      | 4 | 5 | 6 |
+>> +---+---+---+      +---+---+---+
+>> |   |   | X |      | 7 | 8 | 9 |
+>> +---+---+---+      +---+---+---+
+```
+
+## Ekstraopgave 2 (svær): Kan man flytte brikker
 Lige nu kan man kun sætte brikker. Spillepladen bliver hurtigt fyldt.
 
 Kan spillet rettes til så hver spiller kun kan sætte tre brikker, og herefter flytte brikker fra et felt til et andet?
